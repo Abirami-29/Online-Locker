@@ -1,0 +1,94 @@
+
+  
+.button3
+{
+  position: absolute;
+width: 700px;
+height: 700px;
+left: calc(50% - 400px/2 - 484px);
+top: 788px;
+
+background: linear-gradient(180deg, #221717 50.83%, #5E5959 87.81%);
+border: 2px solid #000000;
+border-radius: 25px;
+    
+     position: absolute;
+width: 400px;
+height: 300px;
+left: 174px;
+top:400px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 56px;
+line-height: 28px;
+
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+}
+.button4
+{
+  position: absolute;
+width: 700px;
+height: 100px;
+left: calc(50% - 400px/2 - 484px);
+top: 400px;
+
+background: linear-gradient(180deg, #221717 50.83%, #5E5959 87.81%);
+border: 2px solid #000000;
+border-radius: 25px;
+    
+     position: absolute;
+width: 370px;
+height: 300px;
+left: 700px;
+top: 400px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 56px;
+line-height: 28px;
+
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+}
+.button5
+{
+  position: absolute;
+width: 700px;
+height: 700px;
+left: calc(50% - 400px/2 - 484px);
+top: 788px;
+
+background: linear-gradient(180deg, #221717 50.83%, #5E5959 87.81%);
+border: 2px solid #000000;
+border-radius: 25px;
+    
+     position: absolute;
+width: 350px;
+height: 300px;
+left: 1300px;
+top: 400px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 56px;
+line-height: 28px;
+
+
+letter-spacing: 0.2px;
+
+color: #FFFFFF;
+
+}
+  
+
+  
